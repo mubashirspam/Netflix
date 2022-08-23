@@ -2,7 +2,8 @@ import 'dart:developer';
 
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:test_one/application/Download/download_bloc.dart';
+
+import 'package:test_one/application/download/download_bloc.dart';
 
 class DownloadsPage extends StatelessWidget {
   const DownloadsPage({Key? key}) : super(key: key);
